@@ -71,6 +71,7 @@ function generateProject(){
     {folder: 'src/main/resources/static', name: 'index.html'},
     {folder: 'src/main/resources/static', name: 'main.css'},
     {folder: 'src/main/resources/irace', name: 'middleware.sh'},
+    {folder: 'src/main/resources/irace', name: 'forbidden.txt'},
     {folder: 'src/main/resources/irace', name: 'parameters.txt'},
     {folder: 'src/main/resources/irace', name: 'runner.R'},
     {folder: 'src/main/resources/irace', name: 'scenario.txt'},
