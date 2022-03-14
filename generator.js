@@ -83,6 +83,7 @@ function generateProject(){
     {folder: 'src/main/java/es/urjc/etsii/grafo/__RNAME__/model', name: '__RNAME__Instance.java'},
     {folder: 'src/main/java/es/urjc/etsii/grafo/__RNAME__/model', name: '__RNAME__InstanceImporter.java'},
     {folder: 'src/main/java/es/urjc/etsii/grafo/__RNAME__/model', name: '__RNAME__Solution.java'},
+    {folder: 'src/main/java/es/urjc/etsii/grafo/__RNAME__/model', name: '__RNAME__SolutionValidator.java'},
     {folder: '.run', name: 'Performance.run.xml'},
     {folder: '.run', name: 'Validation.run.xml'}
   ];
