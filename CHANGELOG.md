@@ -1,5 +1,6 @@
 # v0.12
 - (New) GRASP::afterGRASP: Optionally execute anything after the GRASP constructive finishes
+- (New) Scatter Search
 - (New) Verify move changes solution score as expected
 - (New) Verify number of WorkUnits is less than 1 000 000
 - (Fix) Export all generated solutions by default if a solution serializer is enabled instead of only best for pair (alg, instance) 
